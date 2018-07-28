@@ -1,6 +1,8 @@
 # [devopsmachine](http://devopsmachine.com)
 
-[Trello Board](https://trello.com/b/4A2Qoa5T)
+![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-red.svg?longCache=true&style=for-the-badge)
+[![Trello Board](https://img.shields.io/badge/Trello-devopsmachine-blue.svg?longCache=true&style=for-the-badge)](https://trello.com/b/4A2Qoa5T)
+
 
 ## What is this
 
