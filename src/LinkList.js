@@ -4,6 +4,7 @@ import styled from 'styled-components';
 const StyledLinkList = styled.ul`
   list-style: none;
   margin: auto;
+  max-width: 250px;
   padding: 0;
   text-align: center;
   width: 70%;

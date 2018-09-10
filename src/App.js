@@ -23,7 +23,7 @@ const StyledApp = styled.div`
   height: 100%;
   justify-content: center;
   margin: auto;
-  max-width: 450px;
+  max-width: 500px;
   width: 80%;
 `;
 

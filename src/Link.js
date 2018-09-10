@@ -4,7 +4,7 @@ import styled, { css } from 'styled-components';
 const StyledListItem = styled.li`
   background: black;
   border-radius: 5px;
-  font-size: 1.25em;
+  font-size: 1em;
   height: auto;
   margin: .25em 0;
   padding: 1.25em 0;

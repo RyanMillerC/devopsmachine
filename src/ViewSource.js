@@ -11,7 +11,7 @@ const StyledViewSource = styled.div`
 
 const StyledViewSourceLink = styled.a`
   color: #FFF;
-  font-size: 3em;
+  font-size: 2em;
   text-decoration: none;
 
   &:hover {

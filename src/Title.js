@@ -3,9 +3,9 @@ import styled from 'styled-components';
 
 const StyledTitle = styled.h2`
   color: #4CC2FF;
-  font-family: 'Roboto', serif;
-  font-size: 2em;
-  margin: .1em auto 1em;
+  font-family: 'Montserrat', serif;
+  font-size: 1.5em;
+  margin: .1em auto 1.25em;
   text-align: center;
 `;
 

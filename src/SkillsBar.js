@@ -6,10 +6,10 @@ const StyledSkillsBar = styled.div`
   align-items: center;
   display: flex;
   flex-wrap: wrap;
-  font-size: 2em;
+  font-size: 1.5em;
   justify-content: center;
   letter-spacing: .3em;
-  margin: 0 auto 1em;
+  margin: 0 auto 1.25em;
   text-align: center;
   text-indent: .3em;
 `;
