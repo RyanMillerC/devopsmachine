@@ -36,10 +36,10 @@ class App extends React.Component {
           <Title>Appliation Engineer</Title>
           <SkillsBar />
           <LinkList>
-            <Link target="resume" href="https://drive.google.com/drive/folders/1o8jpdCvtmK0_kktdxM9GY4jIaBKg5DNh?usp=sharing">
+            <Link target="resume" href="https://drive.google.com/open?id=1OX5M94J1jCpd11PSPTZXPET5SyBGVuRf">
               <EntypoDocument /> Resume
             </Link>
-            <Link target="email" href="mailto:ryan@devopsmachine.com">
+            <Link target="email" href="mailto:miller.christopher.ryan@gmail.com">
               <EntypoEmail /> Email
             </Link>
             <Link target="github" href="http://github.com/RyanMillerC">
