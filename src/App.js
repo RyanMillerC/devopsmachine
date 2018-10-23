@@ -36,7 +36,7 @@ class App extends React.Component {
           <Title>Appliation Engineer</Title>
           <SkillsBar />
           <LinkList>
-            <Link target="resume" href="https://drive.google.com/open?id=1OX5M94J1jCpd11PSPTZXPET5SyBGVuRf">
+            <Link target="resume" href="https://drive.google.com/open?id=1WegOIdgeuSCvw1b82LsLyn7-RGbIIHQZ">
               <EntypoDocument /> Resume
             </Link>
             <Link target="email" href="mailto:miller.christopher.ryan@gmail.com">

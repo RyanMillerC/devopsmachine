@@ -3,8 +3,9 @@ import styled from 'styled-components';
 
 const StyledHeader = styled.h1`
   color: #fff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto', serif;
   font-size: 2.5em;
+  font-weight: 400;
   margin: 0 auto;
   text-align: center;
 `;
