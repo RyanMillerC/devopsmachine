@@ -6,7 +6,7 @@ const StyledListItem = styled.li`
   border-radius: 5px;
   font-family: 'Roboto', serif;
   font-size: 1em;
-  font-weight: 300;
+  font-weight: 400;
   height: auto;
   margin: .25em 0;
   padding: 1.25em 0;
