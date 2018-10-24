@@ -4,7 +4,7 @@
 ![Built with React](https://img.shields.io/badge/Built%20with-React-blue.svg?longCache=true&style=for-the-badge)
 ![Made with love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg?longCache=true&style=for-the-badge)
 
-> Code for my personal site here: [http://devopsmachine.com/](http://devopsmachine.com)
+> Code for my personal site, [http://devopsmachine.com/](http://devopsmachine.com)
 
 ## What is this
 
