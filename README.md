@@ -1,11 +1,10 @@
 # devopsmachine
 
-![Built on JavaScript](https://img.shields.io/badge/Built%20on-JavaScript-red.svg?longCache=true&style=for-the-badge)
-![Made with React](https://img.shields.io/badge/Made%20with-React-blue.svg?longCache=true&style=for-the-badge)
+![Powered by JavaScript](https://img.shields.io/badge/Powered%20by-JavaScript-yellow.svg?longCache=true&style=for-the-badge)
+![Built with React](https://img.shields.io/badge/Built%20with-React-blue.svg?longCache=true&style=for-the-badge)
+![Made with love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg?longCache=true&style=for-the-badge)
 
 > Code for my personal site here: [http://devopsmachine.com/](http://devopsmachine.com)
-
-[![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ## What is this
 
