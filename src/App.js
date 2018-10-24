@@ -33,7 +33,7 @@ class App extends React.Component {
       <StyledApp>
         <div> {/* Container to center with flex */}
           <Header>Ryan Miller</Header>
-          <Title>Appliation Engineer</Title>
+          <Title>Application Engineer</Title>
           <SkillsBar />
           <LinkList>
             <Link target="resume" href="https://drive.google.com/open?id=1WegOIdgeuSCvw1b82LsLyn7-RGbIIHQZ">
