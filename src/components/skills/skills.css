@@ -1,0 +1,22 @@
+.skillsList {
+  align-content: center;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1.5em;
+  justify-content: center;
+  letter-spacing: .3em;
+  margin: 0 auto 1.25em;
+  text-align: center;
+  text-indent: .3em;
+}
+
+.skillsListLink {
+  color: #ddd;
+  margin: .2em 0;
+  text-decoration: none;
+}
+
+.skillsListLink:hover {
+  color: #FFB04C;
+}

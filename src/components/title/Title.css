@@ -1,0 +1,10 @@
+.title {
+  color: #4CC2FF;
+  font-family: 'Roboto', serif;
+  font-size: 1.5em;
+  font-weight: 300;
+  margin: .1em auto 1.25em;
+  opacity: 1;
+  text-align: center;
+  transition: opacity 1s ease-in-out;
+}

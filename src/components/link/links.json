@@ -1,0 +1,37 @@
+[
+  {
+    "id": "resume",
+    "color": "444444",
+    "icon": "EntypoDocument",
+    "displayName": "Resume",
+    "url": "https://drive.google.com/open?id=1WegOIdgeuSCvw1b82LsLyn7-RGbIIHQZ"
+  },
+  {
+    "id": "email",
+    "color": "666666",
+    "icon": "EntypoEmail",
+    "displayName": "Email",
+    "url": "mailto:miller.christopher.ryan@gmail.com"
+  },
+  {
+    "id": "github",
+    "color": "4078c0",
+    "icon": "EntypoGithub",
+    "displayName": "Github",
+    "url": "http://github.com/RyanMillerC"
+  },
+  {
+    "id": "linkedin",
+    "color": "0077b5",
+    "icon": "EntypoLinkedin",
+    "displayName": "LinkedIn",
+    "url": "http://www.linkedin.com/in/millerryanc"
+  },
+  {
+    "id": "medium",
+    "color": "00ab6c",
+    "icon": "EntypoMedium",
+    "displayName": "Medium",
+    "url": "https://medium.com/@ryanmillerc"
+  }
+]

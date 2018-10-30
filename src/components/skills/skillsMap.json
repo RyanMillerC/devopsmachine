@@ -1,0 +1,74 @@
+[
+  {
+    "id": "aws",
+    "displayName": "AWS",
+    "icon": "devicon-amazonwebservices-plain",
+    "url": "https://aws.amazon.com/"
+  },
+  {
+    "id": "linux",
+    "displayName": "Linux",
+    "icon": "devicon-linux-plain",
+    "url": "https://www.linuxfoundation.org/"
+  },
+  {
+    "id": "redhat",
+    "displayName": "Red Hat",
+    "icon": "devicon-redhat-plain",
+    "url": "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"
+  },
+  {
+    "id": "docker",
+    "displayName": "Docker",
+    "icon": "devicon-docker-plain-wordmark",
+    "url": "https://www.docker.com/"
+  },
+  {
+    "id": "python",
+    "displayName": "Python",
+    "icon": "devicon-python-plain",
+    "url": "https://www.python.org/"
+  },
+  {
+    "id": "git",
+    "displayName": "Git",
+    "icon": "devicon-git-plain",
+    "url": "https://git-scm.com/"
+  },
+  {
+    "id": "github",
+    "displayName": "GitHub",
+    "icon": "devicon-github-plain",
+    "url": "https://github.com/"
+  },
+  {
+    "id": "html5",
+    "displayName": "HTML5",
+    "icon": "devicon-html5-plain",
+    "url": "https://www.w3.org/html/"
+  },
+  {
+    "id": "css3",
+    "displayName": "CSS3",
+    "icon": "devicon-css3-plain",
+    "url": "https://www.w3.org/Style/CSS/"
+  },
+  {
+    "id": "nodejs",
+    "displayName": "NodeJS",
+    "icon": "devicon-nodejs-plain",
+    "url": "https://nodejs.org/en/"
+  },
+  {
+    "id": "react",
+    "displayName": "React",
+    "icon": "devicon-react-original",
+    "url": "https://reactjs.org/"
+  },
+  {
+    "id": "webpack",
+    "displayName": "Webpack",
+    "icon": "devicon-webpack-plain",
+    "url": "https://webpack.js.org/"
+  }
+]

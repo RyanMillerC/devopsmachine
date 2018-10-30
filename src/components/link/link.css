@@ -1,0 +1,24 @@
+.link-li {
+  background: #666666;
+  border-radius: 5px;
+  font-family: 'Roboto', serif;
+  font-size: 1em;
+  font-weight: 400;
+  height: auto;
+  margin: .25em 0;
+  padding: 1.25em 0;
+  width: 100%;
+}
+
+.link-li:hover {
+  background: #FFB04C;
+  color: #FFFFFF;
+}
+
+.link-a,
+.link-a:visited {
+  color: #DDDDDD;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+}
