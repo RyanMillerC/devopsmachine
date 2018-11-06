@@ -1,4 +1,4 @@
-# See https://help.github.com/ignore-files/ for more about ignoring files.
+/package-lock.json
 
 # dependencies
 /node_modules
@@ -23,4 +23,3 @@ yarn-error.log*
 
 # hosted files
 /public/Miller_Ryan_Resume.*
-
