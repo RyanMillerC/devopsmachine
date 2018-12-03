@@ -11,5 +11,5 @@
 
 ## What is this
 
-This is code for my own custom site I created with [React](https://github.com/facebook/react). It is continously deployed through [Travis CI](https://travis-ci.org/RyanMillerC/devopsmachine) to [AWS S3](https://aws.amazon.com/s3/) and is available [here](http://devopsmachine.com).
+This is code for my own custom site I created with [React](https://github.com/facebook/react). It is continuously deployed through [Travis CI](https://travis-ci.org/RyanMillerC/devopsmachine) to [AWS S3](https://aws.amazon.com/s3/) and is available [here](http://devopsmachine.com).
 
