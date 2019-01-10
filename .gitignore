@@ -20,6 +20,3 @@ build.zip
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# hosted files
-/public/Miller_Ryan_Resume.*
