@@ -7,9 +7,8 @@
 
 [![Build Status](https://img.shields.io/travis/RyanMillerC/devopsmachine.svg)](https://travis-ci.org/RyanMillerC/devopsmachine)
 
-> Code for my personal site, [http://devopsmachine.com/](http://devopsmachine.com)
+> Code for my personal site, [https://devopsmachine.com/](https://devopsmachine.com)
 
 ## What is this
 
-This is code for my own custom site I created with [React](https://github.com/facebook/react). It is continuously deployed through [Travis CI](https://travis-ci.org/RyanMillerC/devopsmachine) to [AWS S3](https://aws.amazon.com/s3/) and is available [here](http://devopsmachine.com).
-
+This is code for my own custom site I created with [React](https://github.com/facebook/react). It is continuously deployed on commit with [Travis CI](https://travis-ci.org/RyanMillerC/devopsmachine) to [AWS S3](https://aws.amazon.com/s3/), served through [AWS CloudFront](https://aws.amazon.com/cloudfront/), and is available [here](https://devopsmachine.com).
