@@ -24,10 +24,10 @@
     "url": "https://www.docker.com/"
   },
   {
-    "id": "python",
-    "displayName": "Python",
-    "icon": "devicon-python-plain",
-    "url": "https://www.python.org/"
+    "id": "windows",
+    "displayName": "Windows Server",
+    "icon": "devicon-windows8-original",
+    "url": "https://www.microsoft.com/en-us/cloud-platform/windows-server"
   },
   {
     "id": "git",
@@ -36,10 +36,34 @@
     "url": "https://git-scm.com/"
   },
   {
-    "id": "github",
-    "displayName": "GitHub",
-    "icon": "devicon-github-plain",
-    "url": "https://github.com/"
+    "id": "csharp",
+    "displayName": "C#",
+    "icon": "devicon-csharp-plain",
+    "url": "https://docs.microsoft.com/en-us/dotnet/"
+  },
+  {
+    "id": "javascript",
+    "displayName": "JavaScript",
+    "icon": "devicon-javascript-plain",
+    "url": "https://www.javascript.com/"
+  },
+  {
+    "id": "typescript",
+    "displayName": "TypeScript",
+    "icon": "devicon-typescript-plain",
+    "url": "https://www.typescriptlang.org/"
+  },
+  {
+    "id": "react",
+    "displayName": "React",
+    "icon": "devicon-react-original",
+    "url": "https://reactjs.org/"
+  },
+  {
+    "id": "python",
+    "displayName": "Python",
+    "icon": "devicon-python-plain",
+    "url": "https://www.python.org/"
   },
   {
     "id": "html5",
@@ -52,23 +76,5 @@
     "displayName": "CSS3",
     "icon": "devicon-css3-plain",
     "url": "https://www.w3.org/Style/CSS/"
-  },
-  {
-    "id": "nodejs",
-    "displayName": "NodeJS",
-    "icon": "devicon-nodejs-plain",
-    "url": "https://nodejs.org/en/"
-  },
-  {
-    "id": "react",
-    "displayName": "React",
-    "icon": "devicon-react-original",
-    "url": "https://reactjs.org/"
-  },
-  {
-    "id": "webpack",
-    "displayName": "Webpack",
-    "icon": "devicon-webpack-plain",
-    "url": "https://webpack.js.org/"
   }
 ]
