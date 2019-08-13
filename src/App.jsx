@@ -27,7 +27,7 @@ class App extends React.Component {
         <div> {/* Container to center with flex */}
           <Header>Ryan Miller</Header>
           <Title>
-            Application Engineer
+            Full-Stack Application Developer
           </Title>
           <Skills setTitle={this.setTitle} skills={this.state.skills} />
           <LinkList links={this.state.links} />
