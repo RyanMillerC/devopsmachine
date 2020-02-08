@@ -5,6 +5,7 @@ import EntypoEmail from 'react-entypo/lib/entypo/Email'
 import EntypoGithub from 'react-entypo/lib/entypo/Github'
 import EntypoLinkedin from 'react-entypo/lib/entypo/Linkedin'
 import EntypoMedium from 'react-entypo/lib/entypo/Medium'
+import { FaGetPocket } from 'react-icons/fa';
 
 import './link.css'
 
@@ -40,6 +41,8 @@ class Link extends React.Component {
         return EntypoLinkedin()
       case 'EntypoMedium':
         return EntypoMedium()
+      case 'FaGetPocket':
+        return FaGetPocket()
       default:
         break
     }
