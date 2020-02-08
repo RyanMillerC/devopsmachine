@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import Header from 'components/header/Header';
 import LinkList from 'components/link/LinkList';
@@ -10,7 +10,6 @@ import links from 'components/link/links';
 import skills from 'components/skills/skillsMap';
 
 import './app.css';
-
 
 const App = () => {
   return (
