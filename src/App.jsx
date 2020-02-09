@@ -14,7 +14,7 @@ import './app.css';
 const App = () => {
   return (
     <div className='app'>
-      <div> {/* Container to center with flex */}
+      <div className='content'> {/* Container to center with flex */}
         <Header>Ryan Miller</Header>
         <Title>
           Subject Matter Expert (DevSecOps)
