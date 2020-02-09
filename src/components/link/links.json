@@ -33,5 +33,12 @@
     "icon": "EntypoMedium",
     "displayName": "Medium",
     "url": "https://medium.com/@ryanmillerc"
+  },
+  {
+    "id": "pocket",
+    "color": "ef4056",
+    "icon": "FaGetPocket",
+    "displayName": "Pocket",
+    "url": "https://getpocket.com/@RyanMillerC"
   }
 ]

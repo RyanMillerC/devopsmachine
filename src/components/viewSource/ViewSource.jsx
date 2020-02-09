@@ -1,17 +1,17 @@
-import React from 'react'
+import React from 'react';
 
-import EntypoGithubWithCircle from 'react-entypo/lib/entypo/GithubWithCircle'
+import EntypoGithubWithCircle from 'react-entypo/lib/entypo/GithubWithCircle';
 
-import './viewSource.css'
+import './viewSource.css';
 
-const ViewSource = (props) => {
+const ViewSource = () => {
   return (
     <div className='viewSource'>
       <a className='viewSourceLink' href='https://github.com/RyanMillerC/devopsmachine'>
         <EntypoGithubWithCircle />
       </a>
     </div>
-  )
+  );
 }
 
-export default ViewSource
+export default ViewSource;
