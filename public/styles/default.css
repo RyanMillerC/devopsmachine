@@ -1,0 +1,9 @@
+.error {
+  color: white;
+  text-align: center;
+}
+
+.error a,
+.error a:visited {
+  color: white;
+}
