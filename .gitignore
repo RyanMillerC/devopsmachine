@@ -1,6 +1,7 @@
 # lock files
 package-lock.json
 yarn.lock
+.~lock.*
 
 # dependencies
 /node_modules
